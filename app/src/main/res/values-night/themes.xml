@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyApp.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryVariant">@color/darkColorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
+
+        <item name="colorSecondary">@color/darkColorSecondary</item>
+        <item name="colorSecondaryVariant">@color/darkColorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
+
+        <item name="android:statusBarColor">@color/darkColorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/darkBackgroundColor</item>
+
+        <item name="android:windowBackground">@color/darkBackgroundColor</item>
+
+        <!-- Customize text appearances for dark theme -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Headline1.Dark</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Body1.Dark</item>
+    </style>
+
+    <!-- Dark Text Appearance Styles -->
+    <style name="TextAppearance.Headline1.Dark" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textColor">@color/darkColorOnPrimary</item>
+    </style>
+
+    <style name="TextAppearance.Body1.Dark" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/darkColorOnSecondary</item>
+    </style>
+</resources>

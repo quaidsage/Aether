@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aether</string>
+    <string name="title_home">Home</string>
+    <string name="title_past_trips">Past Trips</string>
+    <string name="title_leaderboard">Leaderboard</string>
+
+    <string name="header_home">Home</string>
+    <string name="header_past_trips">Past Trips</string>
+    <string name="header_leaderboard">Leaderboard</string>
+
+    <string name="default_web_client_id">140406775872-aa0mpn02o68s775sarisr3rql9a7cs35.apps.googleusercontent.com</string>
+</resources>

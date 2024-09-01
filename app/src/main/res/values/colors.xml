@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryVariant">#E64A19</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#FF9800</color>
+    <color name="colorSecondaryVariant">#F57C00</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="backgroundColor">#FFFFFF</color>
+
+    <color name="darkColorPrimary">#FF9800</color>
+    <color name="darkColorPrimaryVariant">#F57C00</color>
+    <color name="darkColorOnPrimary">#212121</color>
+    <color name="darkColorSecondary">#FF5722</color>
+    <color name="darkColorSecondaryVariant">#E64A19</color>
+    <color name="darkColorOnSecondary">#212121</color>
+    <color name="darkBackgroundColor">#121212</color>
+</resources>
