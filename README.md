@@ -66,7 +66,7 @@
 ## Project Acknowledgements:
 
 Quaid Sage - quaidsage<br />
-Jake Cho - githubid<br />
+Jake Cho - Immanuelab<br />
 Jacob Han - githubid<br />
 Kieran McKennan - githubid<br />
 David Yu - githubid<br />
