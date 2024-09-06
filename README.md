@@ -14,7 +14,7 @@
 ## About This Project
 
 <br>
-<img src="https://github.com/user-attachments/assets/1dc83d63-3c51-45d6-8f0b-c4b7ab37b5ba" width="250" height="550" align="right">
+<img src="https://github.com/user-attachments/assets/1dc83d63-3c51-45d6-8f0b-c4b7ab37b5ba" width="225" align="right">
 <p align="left">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus, mauris vitae maximus molestie, urna augue imperdiet dui, vel viverra augue quam a purus. Donec iaculis ligula nec augue tempus, in elementum libero tempor. Curabitur sodales sapien enim, vitae mollis diam accumsan a. Nulla laoreet neque mi, vel sodales diam vestibulum 
 </p>
@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/811072dd-032b-46fc-94a5-b5f6704ecddf" width="280" height="450" align="left">
+<img src="https://github.com/user-attachments/assets/811072dd-032b-46fc-94a5-b5f6704ecddf" width="280" align="left">
 
 <br>
 
@@ -67,8 +67,8 @@
 
 Quaid Sage - quaidsage<br />
 Jake Cho - Immanuelab<br />
-Jacob Han - githubid<br />
-Kieran McKennan - githubid<br />
-David Yu - githubid<br />
+Jacob Han - juici-dev<br />
+David Yu - dyu343<br />
+Kieran McKennan - unknown github username<br />
 
 
