@@ -69,6 +69,6 @@ Quaid Sage - quaidsage<br />
 Jake Cho - Immanuelab<br />
 Jacob Han - juici-dev<br />
 David Yu - dyu343<br />
-Kieran McKennan - unknown github username<br />
+Kieran McKenna - kmck133<br />
 
 
